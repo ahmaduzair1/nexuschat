@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252795060186",
+    "project_id": "nexus-chatapp-prototype",
+    "storage_bucket": "nexus-chatapp-prototype.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252795060186:android:422e13e34721a95f660ae3",
+        "android_client_info": {
+          "package_name": "nexus_chat.com.pk.nexus_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2zkegcUdn_UCGoa3IoL0oPstiym_Zfto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
