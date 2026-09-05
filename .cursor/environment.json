@@ -1,0 +1,17 @@
+{
+  "name": "Nexus Chat (Flutter Web)",
+  "install": "bash .cursor/install.sh",
+  "terminals": [
+    {
+      "name": "flutter-web",
+      "command": "flutter run -d web-server --web-port 8080 --web-hostname 0.0.0.0",
+      "description": "Flutter web dev server for Nexus Chat, served at http://localhost:8080 with hot reload (press 'r' to hot reload, 'R' to restart)."
+    }
+  ],
+  "ports": [
+    {
+      "name": "flutter-web",
+      "port": 8080
+    }
+  ]
+}
